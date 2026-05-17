@@ -56,11 +56,11 @@ https://api.scraperapi.com?api_key=YOUR_KEY&url=https://www.realtor.com/realesta
 ## ScraperAPI 套餐对比：哪个适合房产数据项目
 
 | **套餐名称** | **月请求量** | **并发数** | **价格** | **适合人群** | **行动** |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | Hobby | 100,000 | 20 | $49/月 | 单城市小规模监控、个人项目验证阶段 |  [拿走 Hobby 套餐开始抓取](https://www.scraperapi.com/?fp_ref=coupons&subid=compare-table_row1) |
 | Startup | 1,000,000 | 50 | $149/月 | 多城市房源监控、中小型数据产品 |  [用 Startup 套餐覆盖多城市数据](https://www.scraperapi.com/?fp_ref=coupons&subid=compare-table_row2) |
 | Business | 3,000,000 | 100 | $299/月 | 全国级房产数据平台、高频价格追踪 |  [获取 Business 套餐的完整并发能力](https://www.scraperapi.com/?fp_ref=coupons&subid=compare-table_row3) |
-| Enterprise | 自定义 | 自联系销售 | 大型房产科技公司、需要专属代理池和 SLA |  [联系销售定制 Enterprise 方案](https://www.scraperapi.com/?fp_ref=coupons&subid=compare-table_row4) |
+| Enterprise | 自定义 | 自联系销售 | 大型房产科技公司、需要专属代理池和 SLA | [联系销售定制 Enterprise 方案](https://www.scraperapi.com/?fp_ref=coupons&subid=compare-table_row4) |   |
 
 所有付费套餐都包含 JavaScript 渲染、地理定位、自动重试功能。免费试用提供 5,000 次请求额度，足够跑通一个城市的概念验证。
 
